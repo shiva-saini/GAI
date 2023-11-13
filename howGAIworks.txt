@@ -1,0 +1,21 @@
+Ai -- is a set of tools like GAI,Supervised Learning(labling things), unsupervised learning,reinforcement learning
+
+
+Supervised learning(labeling things) --- >
+
+
+input(A)                         output(B)                            Application
+
+Email                            spam?(0/1)                           Spam filtering
+Ad,user info                     Click?(o/1)                          Online advertising
+Image  radar info                position of other cars               self - driving car
+X-ray image                      diagnosis                            Healthcare
+Image of phone                   Defect?(0/1)                         visual inspection
+Audion recording                 Text transcript                      speech recognition
+Restaurant review                sentiment(pos/neg)                   Reputation monitoring
+
+
+
+
+
+
