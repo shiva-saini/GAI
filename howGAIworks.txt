@@ -15,7 +15,35 @@ Audion recording                 Text transcript                      speech rec
 Restaurant review                sentiment(pos/neg)                   Reputation monitoring
 
 
+Generating text using large language model (llms)
 
+
+text generation process
+        i love eating __________
+           prompt       bagels with cream cheese
+                        my mother meatloaf
+                        out with friends    (so how llm is giving these suggestions)(AI output)
+
+
+Q - How Large Language Models (LLMs) work
+
+let say -- My favorite food is bagel with cream cheese
+
+
+input(A)                                    output(B)
+My favorite food is a                       bagel (guess)
+My favorite food is a bagel                 with(guess)
+My favorite food is a bagel with            cream(guess)
+My favorite food is a bagel with cream      cheese(guess)
+
+when we train a very large AI system on a lot of data (hundreds of billions of words), we get a large language model like ChatGPT.
+
+Large Language Models to access -- ChatGPT,bard , wing
+
+
+
+
+------> AI is general purpose technology like light,internet ... that means it is usefull in many tasks
 
 
 
